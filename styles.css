@@ -1,0 +1,66 @@
+align-items: center;
+
+}
+
+.footer_logo {
+max-width: 480px;
+margin-bottom: 16px;
+
+}
+.footer_links {
+    margin-bottom: 32px;
+}
+.footer_links {
+    padding: 0 16px;
+}
+/* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
+@media (min-width: 728px) {
+ .row {
+    flex-direction: column;
+ } 
+ .home_description {
+    margin-bottom: 24px;
+    display:flex;
+    flex-direction: column;
+ }
+ .home__description--button {
+    max-width: 240px ;
+    align-self: center;
+ }
+ hi{text-align: center;
+ font-size: 60px;
+ }
+ .subheader {
+    text-align: 24px;
+    text-align: center;
+    font-size: 28px;
+ }
+
+
+ul {
+    display: none;
+}
+
+.section_description {
+    flex-direction: column;
+}
+.section_description--wrapper {
+    width: 100%;
+    
+    .about__img--wrapper {
+        width: 100%;
+    }
+    #discord .section_description {
+        flex-direction: column-reverse;
+    }
+        margin-bottom: 24px;
+    }
+    git init
+   git add .
+   git commit -m "Initial commit for 2.3 Responsiveness project"
+}
+it add .
+git commit -m "Final commit for 2.3 Responsiveness"
+git push -u origin main
+
+
